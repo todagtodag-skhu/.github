@@ -3,10 +3,9 @@
 <img width="1920" height="1080" alt="토닥토닥 표지" src="https://github.com/user-attachments/assets/57a5de72-4498-4a9a-b7c1-140008971d98" />
 
 ---
-
 ## 📍 아키텍처 맵
 
-<img width="1920" height="1080" alt="토닥토닥 아키텍처 맵" src="https://github.com/user-attachments/assets/0aa23851-98b3-41b1-88b0-67a02184b632" />
+<img width="1920" height="1080" alt="아키텍쵸맵" src="https://github.com/user-attachments/assets/1c90b641-b408-4776-961b-51b1a063445c" />
 
 
 ---
