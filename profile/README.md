@@ -1,6 +1,7 @@
 ## 토닥토닥 - 칭찬스티커판 기반 습관 형성 도우미 서비스
 ---
 <img width="1920" height="1080" alt="토닥토닥 표지" src="https://github.com/user-attachments/assets/57a5de72-4498-4a9a-b7c1-140008971d98" />
+발표 영상 : https://youtu.be/5QVq6z1fDHs 
 
 ---
 ## 📍 아키텍처 맵
